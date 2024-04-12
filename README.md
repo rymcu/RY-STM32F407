@@ -19,7 +19,7 @@ g.更多详细介绍https://rymcu.com/product/7
 # 使用方法
 1）PCB工程源文件请使用专业版立创EDA导入
 
-2）Test.Hex为示例代码，可使用RYCOM 2.5.1（串口调试助手）通过串口自动下载至开发板
+2）Test.Hex为示例代码，可使用 [RYCOM](https://github.com/rymcu/RYCOM/releases)（串口调试助手）通过串口自动下载至开发板
 
 3）个人使用无限制，商用请联系授权
 
